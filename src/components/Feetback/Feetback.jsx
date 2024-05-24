@@ -1,4 +1,4 @@
-const Feedback = ({feedback, positiveFeedback, totalFeedback}) => {
+const Feedback = ({ feedback, positiveFeedback, totalFeedback }) => {
   return (
     <>
       <p>Good: {feedback.good}</p>

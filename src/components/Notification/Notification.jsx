@@ -1,7 +1,9 @@
 const Notification = () => {
-    return (<>
-<p>No feetback yet</p>
-    </>)
-}
+  return (
+    <>
+      <p>No feetback yet</p>
+    </>
+  );
+};
 
-export default Notification
+export default Notification;
